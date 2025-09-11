@@ -29,9 +29,9 @@
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+  <img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
   <img align="center" alt="Power Automate" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Microsoft_Power_Automate_logo.svg/1024px-Microsoft_Power_Automate_logo.svg.png">
   <img align="center" alt="Power Apps" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Microsoft_Power_Apps_logo.svg/2048px-Microsoft_Power_Apps_logo.svg.png">
 </div>
