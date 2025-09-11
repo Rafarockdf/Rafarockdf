@@ -66,7 +66,7 @@ Aqui estão alguns projetos que destacam minha jornada na área de dados.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafarockf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula" />
 </div>
 
 <div align="center">
