@@ -48,16 +48,16 @@
 Aqui estão alguns projetos que destacam minha jornada na área de dados.
 
 #### 📊 Análise de Dados
-- **[Nome do Projeto de Análise]**: Breve descrição do projeto. Análise exploratória de dados para descobrir tendências e padrões. [**Link para o repositório**]
-- **[Portfolio_Data_Analytics_Data_Science]**: Uma coleção de projetos de análise e ciência de dados, demonstrando habilidades em visualização e modelagem. [**Link para o repositório**](https://github.com/Rafarockf/Portfolio_Data_Analytics_Data_Science)
+- **Nome do Projeto de Análise**: Breve descrição do projeto. Análise exploratória de dados para descobrir tendências e padrões. [**Link para o repositório**]
+- **Portfolio_Data_Analytics_Data_Science**: Uma coleção de projetos de análise e ciência de dados, demonstrando habilidades em visualização e modelagem. [**Link para o repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science)
 
 #### 🔬 Ciência de Dados
-- **[Nome do Projeto de Ciência de Dados]**: Descrição do modelo de Machine Learning desenvolvido, o problema que ele resolve e os resultados alcançados. [**Link para o repositório**]
-- **[TrabalhoEDR_PageRank]**: Implementação do algoritmo PageRank, um exemplo prático de estruturas de dados e algoritmos aplicados. [**Link para o repositório**](https://github.com/Rafarockf/TrabalhoEDR_PageRank)
+- **Previsão de Vendas Semanais com XGBoost**: Descrição do modelo de Machine Learning desenvolvido, o problema que ele resolve e os resultados alcançados. [**Link para o repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Melhores_Compras_ML_Predicao_Vendas)
+- **TrabalhoEDR_PageRank**: Implementação do algoritmo PageRank, um exemplo prático de estruturas de dados e algoritmos aplicados. [**Link para o repositório**](https://github.com/Rafarockf/TrabalhoEDR_PageRank)
 
 #### 🛠️ Engenharia de Dados
-- **[Nome do Projeto de Engenharia de Dados]**: Descrição de um pipeline de dados (ETL/ELT) que construí, as tecnologias utilizadas e o objetivo do projeto. [**Link para o repositório**]
-- **[SistemasDistribuidos-UFU]**: Projeto explorando conceitos de sistemas distribuídos, fundamentais para a engenharia de dados moderna. [**Link para o repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
+- **Nome do Projeto de Engenharia de Dados**: Descrição de um pipeline de dados (ETL/ELT) que construí, as tecnologias utilizadas e o objetivo do projeto. [**Link para o repositório**]
+- **SistemasDistribuidos-UFU**: Projeto explorando conceitos de sistemas distribuídos, fundamentais para a engenharia de dados moderna. [**Link para o repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
 
 ---
 
