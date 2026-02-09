@@ -9,7 +9,7 @@
 <p>
   🎓 <strong>Formação:</strong> Cientista de Dados pela <strong>FIAP</strong> e graduando em Sistemas de Informação na <strong>UFU</strong>.
   <br>
-  🛠️ <strong>Stack Principal:</strong> Data Lake, BigQuery, Dataform, SQL e JavaScript.
+  🛠️ <strong>Stack Principal:</strong> Data Lake, BigQuery, Dataform, SQL, Python, JavaScript e conhecimentos em Machine Learning.
   <br>
   🎯 <strong>Objetivo:</strong> Construir pipelines eficientes que transformam dados brutos em inteligência de negócio.
 </p>
