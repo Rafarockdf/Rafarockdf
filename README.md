@@ -1,19 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1>Olá! Sou o Rafael Luiz 🚀</h1>
-<p>
-  Atuo como <strong>Assistente de Engenharia de Dados</strong> na <strong>Gran</strong>, integrando o time de Engenharia Analítica.
-  <br>
-  Com <strong>1 ano e 6 meses de experiência</strong> na área de dados (desde ago/2024), meu foco atual é a implementação de <strong>arquiteturas de dados analíticas</strong> robustas.
-</p>
-<p>
-  🎓 <strong>Formação:</strong> Cientista de Dados pela <strong>FIAP</strong> e graduando em Sistemas de Informação na <strong>UFU</strong>.
-  <br>
-  🛠️ <strong>Stack Principal:</strong> Data Lake, BigQuery, Dataform, SQL, Python, JavaScript e conhecimentos em Machine Learning.
-  <br>
-  🎯 <strong>Objetivo:</strong> Construir pipelines eficientes que transformam dados brutos em inteligência de negócio.
-</p>
+  <h1>Olá! Sou o Rafael Luiz 🚀</h1>
+  <h3>Assistente de Engenharia de Dados @ Gran Cursos Online</h3>
 </div>
+
+<p align="center">
+  Com <strong>1 ano e 6 meses de experiência</strong> na área de dados (desde ago/2024), atuo no time de <strong>Engenharia Analítica</strong> implementando arquiteturas modernas de dados.
+</p>
+
+<p align="center">
+  🎓 <strong>Formação:</strong> Data Science (FIAP) | Sistemas de Informação (UFU - Em curso)
+  <br>
+  🎯 <strong>Foco:</strong> Transformar dados brutos em insights através de Data Lakes, BigQuery e Pipelines robustos.
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-luiz-gon%C3%A7alves-dos-santos-856a15226/" target="_blank">
@@ -22,60 +21,55 @@
   <a href="mailto:mvrafael.luiz.goncalves.santos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/grafaelluiz/" target="_blank">
+  <a href="https://www.instagram.com/grafaelluiz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 🚀 Minhas Habilidades e Ferramentas
+### 🛠️ Tech Stack & Ferramentas
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg">
-  <img align="center" alt="Power Automate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/master/assets/Robot/Color/robot_color.svg">
-  <img align="center" alt="Power Apps" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/master/assets/Desktop%20Computer/Color/desktop_computer_color.svg">
+<div align="center">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img align="center" alt="Google Cloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="BigQuery" height="40" width="50" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img align="center" alt="Power BI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
-**Conhecimentos Conceituais:**
-- 🔹 **Machine Learning:** Modelos de classificação, regressão e clusterização.
-- 🔹 **Data Warehouse (DW):** Modelagem dimensional, ETL e processos de carga.
-- 🔹 **Data Lake:** Arquitetura e armazenamento de dados em grande escala.
+<br>
+
+| Áreas de Conhecimento | Detalhes |
+| :--- | :--- |
+| ☁️ **Engenharia de Dados** | Google Cloud Platform (GCP), BigQuery, Dataform, Data Lake, ETL/ELT |
+| 🤖 **Machine Learning** | Scikit-learn, XGBoost, Prophet (Séries Temporais), Regressão, Clusterização |
+| 📊 **Analytics** | Modelagem Dimensional (Star Schema), DAX, Power BI, SQL Avançado |
+| 🐍 **Desenvolvimento** | Python (Pandas, OpenCV, Pytesseract), JavaScript, Automação |
 
 ---
 
-### 💡 Meus Projetos
+### 💡 Projetos em Destaque
 
-Aqui estão alguns projetos que destacam minha jornada na área de dados.
-
-#### 📊 Análise de Dados
-- **Nome do Projeto de Análise**: Breve descrição do projeto. Análise exploratória de dados para descobrir tendências e padrões. [**Link para o repositório**]
-- **Portfolio_Data_Analytics_Data_Science**: Uma coleção de projetos de análise e ciência de dados, demonstrando habilidades em visualização e modelagem. [**Link para o repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science)
+#### 🛠️ Engenharia e Automação
+- **ScrapTape (OCR de Notas Fiscais)**: Pipeline em Python utilizando **OpenCV** e **Pytesseract** para extração automática de dados (CNPJ, valores) de imagens de cupons fiscais.
+- **Sistemas Distribuídos (UFU)**: Projetos acadêmicos explorando conceitos fundamentais de sistemas distribuídos e processamento paralelo. [**Ver Repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
 
 #### 🔬 Ciência de Dados
-- **Previsão de Vendas Semanais com XGBoost**: Descrição do modelo de Machine Learning desenvolvido, o problema que ele resolve e os resultados alcançados. [**Link para o repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Melhores_Compras_ML_Predicao_Vendas)
-- **TrabalhoEDR_PageRank**: Implementação do algoritmo PageRank, um exemplo prático de estruturas de dados e algoritmos aplicados. [**Link para o repositório**](https://github.com/Rafarockf/TrabalhoEDR_PageRank)
-
-#### 🛠️ Engenharia de Dados
-- **Nome do Projeto de Engenharia de Dados**: Descrição de um pipeline de dados (ETL/ELT) que construí, as tecnologias utilizadas e o objetivo do projeto. [**Link para o repositório**]
-- **SistemasDistribuidos-UFU**: Projeto explorando conceitos de sistemas distribuídos, fundamentais para a engenharia de dados moderna. [**Link para o repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
+- **NASA Space Apps - Will It Rain?**: Participação no hackathon desenvolvendo modelos preditivos para dados climáticos.
+- **Previsão de Vendas (XGBoost)**: Modelo de Machine Learning para prever demanda de vendas, otimizando estoque. [**Ver Repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Melhores_Compras_ML_Predicao_Vendas)
+- **TCC - Análise de Commodities**: (Em desenvolvimento) Aplicação de séries temporais e ML para predição de preços no mercado financeiro/agrícola.
 
 ---
 
-### 📈 Minhas Estatísticas no GitHub
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafarockdf&layout=compact&theme=dracula" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafarockf&theme=dracula&row=1&column=7"/>
-</div>
-
----
