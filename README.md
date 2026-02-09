@@ -57,11 +57,13 @@
 ### 💡 Projetos em Destaque
 
 #### 🛠️ Engenharia e Automação
-- **ScrapTape (OCR de Notas Fiscais)**: Pipeline em Python utilizando **OpenCV** e **Pytesseract** para extração automática de dados (CNPJ, valores) de imagens de cupons fiscais.
+`- **ScrapTape (OCR de Notas Fiscais)**: Pipeline em Python utilizando **OpenCV** e **Pytesseract** para extração automática de dados (CNPJ, valores) de imagens de cupons fiscais.`
 - **Sistemas Distribuídos (UFU)**: Projetos acadêmicos explorando conceitos fundamentais de sistemas distribuídos e processamento paralelo. [**Ver Repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
 
+https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025
+
 #### 🔬 Ciência de Dados
-- **NASA Space Apps - Will It Rain?**: Participação no hackathon desenvolvendo modelos preditivos para dados climáticos.
+- **NASA Space Apps - Will It Rain?**: Participação no hackathon desenvolvendo modelos preditivos para dados climáticos.[**Ver Repositório**](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025)
 - **Previsão de Vendas (XGBoost)**: Modelo de Machine Learning para prever demanda de vendas, otimizando estoque. [**Ver Repositório**](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Melhores_Compras_ML_Predicao_Vendas)
 - **TCC - Análise de Commodities**: (Em desenvolvimento) Aplicação de séries temporais e ML para predição de preços no mercado financeiro/agrícola.
 
