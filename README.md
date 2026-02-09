@@ -1,11 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Olá! Sou o Rafael Luiz</h1>
-  <p>
-    Sou um profissional com <strong>1 ano e 1 mês de experiência em Análise de Dados</strong>, apaixonado por uma vida <strong>Data Driven</strong>.
-    <br>
-    Formado em <strong>Ciência de Dados pela FIAP</strong> e atualmente cursando <strong>Sistemas de Informação na UFU</strong>, meu objetivo é transformar dados brutos em insights valiosos e soluções inteligentes.
-  </p>
+<h1>Olá! Sou o Rafael Luiz 🚀</h1>
+<p>
+  Atuo como <strong>Assistente de Engenharia de Dados</strong> na <strong>Gran</strong>, integrando o time de Engenharia Analítica.
+  <br>
+  Com <strong>1 ano e 6 meses de experiência</strong> na área de dados (desde ago/2024), meu foco atual é a implementação de <strong>arquiteturas de dados analíticas</strong> robustas.
+</p>
+<p>
+  🎓 <strong>Formação:</strong> Cientista de Dados pela <strong>FIAP</strong> e graduando em Sistemas de Informação na <strong>UFU</strong>.
+  <br>
+  🛠️ <strong>Stack Principal:</strong> Data Lake, BigQuery, Dataform, SQL e JavaScript.
+  <br>
+  🎯 <strong>Objetivo:</strong> Construir pipelines eficientes que transformam dados brutos em inteligência de negócio.
+</p>
 </div>
 
 <div align="center">
