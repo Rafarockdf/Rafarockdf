@@ -57,7 +57,7 @@
 ### 💡 Projetos em Destaque
 
 #### 🛠️ Engenharia e Automação
-`- **ScrapTape (OCR de Notas Fiscais)**: Pipeline em Python utilizando **OpenCV** e **Pytesseract** para extração automática de dados (CNPJ, valores) de imagens de cupons fiscais.`
+'`- **ScrapTape (OCR de Notas Fiscais)**: Pipeline em Python utilizando **OpenCV** e **Pytesseract** para extração automática de dados (CNPJ, valores) de imagens de cupons fiscais.`'
 - **Sistemas Distribuídos (UFU)**: Projetos acadêmicos explorando conceitos fundamentais de sistemas distribuídos e processamento paralelo. [**Ver Repositório**](https://github.com/Rafarockf/SistemasDistribuidos-UFU)
 
 https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025
