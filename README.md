@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Olá! Sou o Rafael Luiz 🚀</h1>
-  <h3>Assistente de Engenharia de Dados @ Gran Cursos Online</h3>
+  <h3>Analytics Engineer Associate @ Gran Cursos Online</h3>
 </div>
 
 <p align="center">
-  Com <strong>1 ano e 6 meses de experiência</strong> na área de dados (desde ago/2024), atuo no time de <strong>Engenharia Analítica</strong> implementando arquiteturas modernas de dados.
+  Profissional de Dados com <strong>2 anos de experiência</strong>, atuando em <strong>Analytics Engineering</strong>, <strong>Engenharia de Dados</strong> e <strong>Modelagem de Dados</strong>. Tenho experiência na construção de <strong>Data Warehouses</strong>, <strong>Data Marts</strong>, pipelines <strong>ETL/ELT</strong> e arquiteturas analíticas utilizando <strong>Google Cloud Platform (GCP)</strong>, <strong>BigQuery</strong>, <strong>Dataform</strong> e <strong>SQL</strong>.
 </p>
 
 <p align="center">
-  🎓 <strong>Formação:</strong> Data Science (FIAP) | Sistemas de Informação (UFU - Em curso)
+  🎓 <strong>Formação:</strong> Ciência de Dados (FIAP) | Sistemas de Informação (UFU - Em andamento)
   <br>
-  🎯 <strong>Foco:</strong> Transformar dados brutos em insights através de Data Lakes, BigQuery e Pipelines robustos.
+  🎯 <strong>Foco:</strong> Analytics Engineering, Modelagem Dimensional, Data Warehouse, Governança de Dados e Arquiteturas Analíticas Escaláveis.
 </p>
 
 <div align="center">
